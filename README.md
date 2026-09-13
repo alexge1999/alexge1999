@@ -11,7 +11,7 @@
 * **Frontend & Web:** HTML, CSS, JavaScript
 * **Datos & Gobierno:** SQL, Data Profiling, DAX, Pipeline Integrations
 * **Control de versiones:** Git
-* * **Uso de IA:** Creación de agentes, Optimización de agentes
+* **Uso de IA:** Creación de agentes, Optimización de agentes
 
 ---
 
